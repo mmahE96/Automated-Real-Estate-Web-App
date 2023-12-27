@@ -1,4 +1,4 @@
-# Here are specification and presentation for real estate Web-App.
+# Here are presentation and specification for real estate Web-App.
 
 ## Presentation:
 
